@@ -1,11 +1,6 @@
-html,body{height: 100%;width: 70%;margin:60px auto;padding:0;}
-body{
-	background:url(bg-login.png)no-repeat;
-    width:70%;
-    height:100%;
-    background-size:100% 100%;
-    position:absolute;
-    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='bg-login.png',sizingMethod='scale');
+body {
+    margin: 60px auto;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
